@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/PlayWithList/PlayWithList.py
+src/PlayWithList/__init__.py
+src/PlayWithList.egg-info/PKG-INFO
+src/PlayWithList.egg-info/SOURCES.txt
+src/PlayWithList.egg-info/dependency_links.txt
+src/PlayWithList.egg-info/top_level.txt
